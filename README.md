@@ -1,10 +1,22 @@
 # Agentic AI Projects
 
-A collection of practical projects and experiments focused on agentic artificial intelligence and AI application development.
+A collection of practical projects and experiments focused on **agentic artificial intelligence, AI agents, and AI application development**.
 
-## About
+## Overview
 
-This repository contains hands-on work exploring AI agents, agentic workflows, and related software engineering concepts.
+This repository contains hands-on work exploring agentic AI concepts, agent workflows, and related software engineering techniques.
+
+## Topics
+
+- AI agents
+- Agentic workflows
+- AI application development
+- Automation and tool use
+- Practical experimentation with modern AI frameworks
+
+## Purpose
+
+The repository serves as a practical portfolio of agentic AI learning and project work.
 
 ## Author
 
