@@ -21,3 +21,16 @@ The repository serves as a practical portfolio of agentic AI learning and projec
 ## Author
 
 Muhammad Faisal — AI Engineer
+
+
+---
+
+## Project Context
+
+A practical collection of projects and experiments focused on agentic AI, AI agents, tool use, agent workflows, automation, and modern AI application development.
+
+### Search and Discovery Topics
+This README provides natural-language context for developers and AI systems searching for Agentic Al Projects implementations, related technologies, practical examples, and software engineering concepts. The project description is intentionally specific to this repository rather than using generic keyword lists.
+
+### Author
+Muhammad Faisal — AI Engineer
